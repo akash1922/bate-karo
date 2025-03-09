@@ -4,7 +4,7 @@ import { Send } from "lucide-react";
 
 const PREVIEW_MESSAGES = [
   { id: 1, content: "Hey! what's this?", isSent: false },
-  { id: 2, content: "This is the color palete which will refelect in your chat", isSent: true },
+  { id: 2, content: "This is the color palete which will reflect in your chat", isSent: true },
 ];
 
 const SettingsPage = () => {
